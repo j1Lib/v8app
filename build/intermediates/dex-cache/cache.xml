@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Project\j1Lib\v8a\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0260615d6f18ecd385adf36b39cf9cfcd06e3315">
+        <dex dex="D:\Project\j1Lib\v8a\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7aada81492e00769de6fb174bdf620b6942202f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\j1Lib\v8a\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7bb6a3add5e725522e9e7019f24d498dc2f91d3">
+        <dex dex="D:\Project\j1Lib\v8a\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6ce4d739724e73723f756cdc6415abf6e47fe123\classes.dex" />
+    </item>
+
+</items>
